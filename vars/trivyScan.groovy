@@ -1,4 +1,4 @@
-def vulenarability(string imageName) {
+def vulenarability(String imageName) {
         sh """
                 echo image - ${imageName}
 

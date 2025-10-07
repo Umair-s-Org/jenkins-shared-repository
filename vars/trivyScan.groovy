@@ -1,4 +1,4 @@
-def vulenarability(sting imageName) {
+def vulenarability(string imageName) {
         sh """
                 echo image - ${imageName}
 
